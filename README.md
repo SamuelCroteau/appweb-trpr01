@@ -4,3 +4,4 @@ J'ai utilisé l'ai pour générer la liste par défaut de mes animaux et pour le
 
 https://github.com/SamuelCroteau/appweb-trpr01/
 
+https://samuelcroteau.github.io/appweb-trpr01/
